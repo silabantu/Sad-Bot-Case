@@ -59,10 +59,10 @@ global.thumb = fs.readFileSync('./media/image/papah.jpg')
 global.faall = fs.readFileSync('./media/image/menu.jpg')
 
 // Url
-global.mygit = 'https://github.com/FahriAdison'
-global.myyt = 'https://bit.ly/Papah-Chan'
-global.myytv = ''
-global.mygc = ""
+global.mygit = 'https://www.instagram.com/jonkristianh.silaban'
+global.myyt = 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
+global.myytv = 'https://www.instagram.com/jonkristianh.silaban'
+global.mygc = "https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt"
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'jonkris BOT'
