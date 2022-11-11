@@ -20,7 +20,7 @@ global.APIKeys = {
 
 // Other
 global.owner = ['994403231195']
-global.ownernomer = "994403231195"
+global.ownernomer = "6289509158681"
 global.premium = ['6289509158681']
 global.packname = 'jonkris bot'
 global.author = 'kristian-Bot'
